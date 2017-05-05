@@ -1,6 +1,6 @@
 # Stewart Lord
 
-My resume is available upon request. This repo provides some deep links into interesting code I've written.
+My resume is available upon request. This repo provides deep links into some interesting code I've written.
 
 ## A Bit About Me
 
