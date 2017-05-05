@@ -34,6 +34,6 @@ Open Source projects tend to evolve organically. This often results in practical
 
 ## Search Expression Modelling 
 
-Queries are often expressed as strings. This works pretty well for humans and for predefined lookups. But, what happens when an expression needs to be passed around and manipulated in several places in your code? The following sample models a search expression that can be built-up and pulled apart by adding, removing and nesting condtions.
+Queries are often expressed as strings. This works pretty well for humans and for predefined lookups. But, what happens when an expression needs to be passed around and manipulated in several places in your code? This use case popped up on the [Chronicle](https://github.com/stewartlord/chronicle) project. Chronicle is a content management system for [Perforce](https://perforce.com). The following sample models a search expression that can be built-up and pulled apart by adding, removing and nesting condtions.
 
 [P4\File\Filter](https://github.com/stewartlord/chronicle/blob/master/library/P4/File/Filter.php)
