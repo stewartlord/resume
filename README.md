@@ -14,7 +14,7 @@ I am passionate about the user experience. I respect simple pragmatic architectu
 
 ## Pragmatic Abstraction
 
-Open Source projects tend to evolve organically. This often results in practical code that solves problems simply and with minimal disruption. When it came time to add SVG support to my popular [Identicon.js](https://github.com/stewartlord/identicon.js) library, I wanted to do so without breaking backwards compatibility and with minimal risk of regressions. To do so I wrote a small Svg class that adhered to the same interface exposed by PNGlib. This meant that the existing code was largely untouched and made it trivial to switch between SVG and PNG rendering simply by swapping out the image class.
+Open Source projects tend to evolve organically. This often results in practical code that solves problems simply and with minimal disruption. When it came time to add SVG support to my popular [Identicon.js](https://github.com/stewartlord/identicon.js) library, I wanted to do it without breaking backwards compatibility and with minimal risk of regressions. To do so I wrote a small Svg class that adhered to the same interface exposed by PNGlib. This meant that the existing code was largely untouched and made it trivial to switch between SVG and PNG rendering simply by swapping out the image class.
 
 [Identicon.Svg](https://github.com/stewartlord/identicon.js/blob/master/identicon.js#L138,L188)
 
