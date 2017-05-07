@@ -4,7 +4,7 @@ My resume is available upon request. This repo provides deep links into some int
 
 ## A Bit About Me
 
-I am passionate about the user experience. I respect simple pragmatic architecture. I think we should optimize the ratio of lines of code to user happiness. I want to know that what we're building delivers value. Some people affectionately call me a pixel nazi, or a code nazi because I care about the details. I like to solve gnarly problems and I love working with other passionate, talented people!
+I am passionate about the user experience. I respect simple pragmatic architecture. I think we should optimize the ratio of lines of code to user happiness. I want to know that what we're building delivers value. I like to solve gnarly problems and I love working with other passionate, talented people!
 
 ## Diff Changes
 
