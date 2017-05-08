@@ -30,7 +30,7 @@ Open Source projects tend to evolve organically. This often results in practical
 
 [Contrast](https://github.com/stewartlord/contrast) is a mostly dormant side-project of mine. It is a desktop diff viewer written in JavaScript with Electron. One of the goals behind this project was to gain some experience with Electron. Another goal was to implement an algorithm that would ensure the left and right lines in a side-by-side diff are aligned on a focal point as the user scrolls through the document. Beware, the code is a bit messy as tends to happen when one is hacking around on a side-project!
 
-[script.js](https://github.com/stewartlord/contrast/blob/master/renderer.js#L382,L407)
+[renderer.js](https://github.com/stewartlord/contrast/blob/master/renderer.js#L382,L407)
 
 ## Search Expression Modelling 
 
