@@ -6,6 +6,14 @@ My resume is available upon request. This repo provides deep links into some int
 
 I am passionate about the user experience. I respect simple pragmatic architecture. I think we should optimize the ratio of lines of code to user happiness. I want to know that what we're building delivers value. I like to solve gnarly problems and I love working with other passionate, talented people!
 
+## Artificial Intelligence
+
+[BattleSnake](https://www.battlesnake.io/) is easily the most fun I have had at a programming event. What an incredible way to get people excited about programming! I co-wrote Workday's bounty snake and enjoyed it so much that I continued to work on it afterwards.
+
+My snake uses the A* (A-star) search algorithm to find the best paths to food or nodes adjacent to the snake's tail. Path finding employs a heuristic to avoid walls and enemy snakes. Paths are weighted according to how hungry the snake is, how far away food is and whether or not the goal provides a path back to the snake's tail (i.e. a valid subsequent move). If no valid path to food or the snake's tail can be found, the AI will move the snake in the direction with the most open space.
+
+[snake.js](https://github.com/stewartlord/battlesnake/blob/master/snake.js)
+
 ## Diff Changes
 
 [Swarm](https://github.com/stewartlord/swarm) is a code review tool. This code sample determines the work an author did in a particular version of a review or between two versions of a review. If one version is given, it is easy. If two changes are given, it is hard.
